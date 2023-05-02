@@ -1,3 +1,3 @@
-### Exercitando o versionamento 
--1) Intregando repositórios [Locais e Remotos]...
-queria star morto
+### Exercitando o versionamento
+
+-1) Integrando reositórios [LOCAIS e REMOTOS]...
