@@ -4,9 +4,9 @@
     align-items: center;
     width: 100vw;
     height: 20vh;
-    background-color: rgb(0, 4, 255);
+    background-color: blue;
     color: #fff;
-}
+} 
 
 .container{
     display: flex;
@@ -18,15 +18,12 @@
 
 .container .central{
     flex-grow: 5;
-
 }
-
 .container .l-e{
     flex-grow: 1;
-    background-color: aqua;
+    background-color: brown;
 }
-
 .container .l-d{
     flex-grow: 1;
-    background-color: rgb(12, 228, 48);
+    background-color: coral;
 }
